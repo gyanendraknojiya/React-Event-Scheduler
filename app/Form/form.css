@@ -1,0 +1,19 @@
+.form{
+    width: 300px;
+    margin: auto;
+    text-align: center;
+}
+
+.btn{
+    height: 30px;
+    width: 80px;
+    background-color: black;
+    color: white;
+    border: 0;
+    cursor: pointer;
+}
+
+.success{
+color: green;
+text-align: center;
+}
